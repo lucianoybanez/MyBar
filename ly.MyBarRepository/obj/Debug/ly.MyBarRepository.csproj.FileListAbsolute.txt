@@ -1,9 +1,0 @@
-C:\awork\MyProjects\MyBar\ly.MyBarRepository\bin\Debug\ly.MyBarRepository.dll
-C:\awork\MyProjects\MyBar\ly.MyBarRepository\bin\Debug\ly.MyBarRepository.pdb
-C:\awork\MyProjects\MyBar\ly.MyBarRepository\bin\Debug\MongoDB.Bson.dll
-C:\awork\MyProjects\MyBar\ly.MyBarRepository\bin\Debug\MongoDB.Driver.Core.dll
-C:\awork\MyProjects\MyBar\ly.MyBarRepository\bin\Debug\MongoDB.Driver.dll
-C:\awork\MyProjects\MyBar\ly.MyBarRepository\bin\Debug\MongoDB.Bson.xml
-C:\awork\MyProjects\MyBar\ly.MyBarRepository\bin\Debug\MongoDB.Driver.xml
-C:\awork\MyProjects\MyBar\ly.MyBarRepository\obj\Debug\ly.MyBarRepository.dll
-C:\awork\MyProjects\MyBar\ly.MyBarRepository\obj\Debug\ly.MyBarRepository.pdb
