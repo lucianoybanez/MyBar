@@ -15,6 +15,7 @@
     this.review = {};
 
     this.addReview = function(product){
+      console.log("adding review");
       product.reviews.push(this.review);
       this.review = {};      
     };
